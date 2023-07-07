@@ -14,14 +14,16 @@ development is an engineering process that together with innovative solutions br
 
 ### Work Experience
 
-#### Android Engineer - Architect, Globant (2021 - Present)
+#### Android Engineer - Architect (Sr. level 3), Globant (2021 - Present)
 
 _Clients:_
+
 - Disney POS System Studio
 - Spot On
 - Royal Caribbean Guest Account team
 
 _Activities:_
+
 - Mentored and guided SSr/Senior developers, providing technical leadership and fostering their professional growth within the Android development team.
 - Led software architectural discussions and made strategic decisions to ensure the development of scalable, maintainable, and robust Android applications.
 - Collaborated with cross-functional teams, including product managers, designers, and backend engineers, to define project requirements and develop technical solutions.
@@ -36,12 +38,14 @@ _Activities:_
 - Led the onboarding process for new developers, providing guidance and support to ensure a smooth integration into the team and company culture.
 - Assessed the performance and progress of individual developers, providing constructive feedback and identifying areas for improvement or professional development.
 
-#### Android Engineer - Software Designer, Globant (2019 - 2020)
+#### Android Engineer - Software Designer (Sr. level 2), Globant (2019 - 2020)
 
 _Clients:_
+
 - Royal Caribbean Guest Account team, Core Team, Leadership Team
 
 _Activities:_
+
 - Mentored and guided SSr/Senior developers, providing technical leadership and fostering their professional growth within the Android development team.
 - Collaborated with cross-functional teams, including product managers, designers, and backend engineers, to define project requirements and develop technical solutions.
 - Conducted code reviews, identified areas for improvement, and implemented best practices to ensure code quality and adherence to architectural guidelines.
@@ -55,12 +59,14 @@ _Activities:_
 #### Sr. Android Developer, Globant (2016 - 2018)
 
 _Clients:_
+
 - Apartments.com
 - Carnival Cruises
 - Disney Hotel Studio
 - Royal Caribbean Core Team
 
 _Activities:_
+
 - Collaborated with cross-functional teams, including product managers, designers, and backend engineers, to define project requirements and develop technical solutions.
 - Conducted code reviews, identified areas for improvement, and implemented best practices to ensure code quality and adherence to architectural guidelines.
 - Developed and maintained coding standards, and design principles for Android projects.
@@ -70,21 +76,25 @@ _Activities:_
 #### SSr. Adv. Web Developer, Globant (2014 - 2015)
 
 _Clients:_
+
 - Southwest Airlines
 - EMC
 
 _Activities:_
+
 - Collaborated with cross-functional teams, including product managers, designers, and backend engineers, to define project requirements and develop technical solutions.
 - Conducted code reviews, identified areas for improvement, and implemented best practices to ensure code quality and adherence to architectural guidelines.
 
 #### SSr. Java Developer, Globant (2012 - 2013)
 
 _Clients:_
+
 - Statefarm
 - AT&T
 - Bridgestone / Firestore
 
 _Activities:_
+
 - Collaborated with cross-functional teams, including product managers, designers, and backend engineers, to define project requirements and develop technical solutions.
 - Conducted code reviews, identified areas for improvement, and implemented best practices to ensure code quality and adherence to architectural guidelines.
 
