@@ -73,6 +73,19 @@ _Activities:_
 - Implemented and optimized core components and frameworks for reusability across multiple Android applications.
 - Worked closely with QA engineers to define test strategies and ensure the delivery of high-quality software.
 
+#### Android Fundamentals Professor, Fagdut (2016 - 2016)
+
+I worked as Android professor teaching Android Fundamentls. The course was designed for students who are new to programming, and want to learn how to build Android apps. The students didn't need any programming experience to take this course, but it was a plus if they did. The course took 30h divided in 10 weekly classes of 3h each
+
+*Content:*
+- Android Introduction
+- Key concepts to build an Android application
+- Building your first UI
+- Data Persistence
+- Working Asynchronously 
+- Common Android Libraries
+- Distributing your application
+
 #### SSr. Adv. Web Developer, Globant (2014 - 2015)
 
 _Clients:_
